@@ -1,1 +1,1 @@
-# Covid_fake_news_detection_WebApp
+# Covid Fake news Detection WebApp
